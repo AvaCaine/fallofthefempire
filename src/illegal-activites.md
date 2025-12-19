@@ -5,4 +5,4 @@ The Fempire has been known to use illegal methods of control, and has actively t
 
 CNSL made false accusations that the server "Femboy Fun" was threatening to dox him, when the reality was, it was the other way around.
 
-Of course, these bold statements are not without [evidence](evidence).
+Of course, these bold statements are not without [evidence](https://avacaine.github.io/fallofthefempire/src/evidence).
