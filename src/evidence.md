@@ -19,26 +19,28 @@ This wasn’t an easy decision to make.
 <img width="541" height="105" alt="image" src="https://github.com/user-attachments/assets/c371494a-2c8e-4312-8d82-91bf0ffe2e95" />
 <img width="450" height="441" alt="image" src="https://github.com/user-attachments/assets/bcbdae57-8910-4eeb-bb1a-90f072f28924" />
 <img width="648" height="598" alt="image" src="https://github.com/user-attachments/assets/9028e7e1-57ae-436c-9caf-cd022a4cbe06" />
-1291048710255411204 is message id
+<br>
+```1291048710255411204``` 
+is message id
 
-  1299848196604035093 and 1299848222264655893
-  1299844773225693266
-  1299840297748008981
-
+`1299848196604035093` and `1299848222264655893`
+`1299844773225693266`
+`1299840297748008981`
+<br>
 First page message ids:
-
-1382533804723273749
-
-1382533808943009884
-
-1382534001788456992
-
-1382534057782546552
-
-1382534085381197999 (parts of cnsl admitting hes hacking someone)
-
-1423731489664667688(nim saying admit im lying)
-
+<br>
+`1382533804723273749`
+<br>
+`1382533808943009884`
+<br>
+`1382534001788456992`
+<br>
+`1382534057782546552`
+<br>
+`1382534085381197999` (parts of cnsl admitting hes hacking someone)
+<br>
+`1423731489664667688`(nim saying admit im lying)
+<br>
 <img width="823" height="613" alt="image" src="https://github.com/user-attachments/assets/2d05a084-8d1c-4ebf-b609-73ffe3e2347c" />
 (for context i told their names in my server which is invite only and only has people we all know)
 
