@@ -54,9 +54,11 @@ First page message ids:
 `1423731489664667688`(nim saying admit im lying)
 <br>
 <img width="823" height="613" alt="image" src="https://github.com/user-attachments/assets/2d05a084-8d1c-4ebf-b609-73ffe3e2347c" />
+<br>
 (for context i told their names in my server which is invite only and only has people we all know)
 
 (they leaked me in mod chat which they called “private” so my server also falls under the “private” umbrella)
+<br>
 <img width="675" height="482" alt="image" src="https://github.com/user-attachments/assets/17a283af-3057-4674-a0c1-9ff05bc4c95a" />
 <br>
 <img width="698" height="167" alt="image" src="https://github.com/user-attachments/assets/1fd8d30b-1f16-49da-a4b4-78769260c30e" />
