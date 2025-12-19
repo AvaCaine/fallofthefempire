@@ -14,7 +14,9 @@ This wasn’t an easy decision to make.
 <br>
 <img width="752" height="417" alt="image" src="https://github.com/user-attachments/assets/821c47fd-6b2a-4308-a21a-b1f83fb81c27" />
 <br>
+<br>
 ***SS BELOW SHOWS CNSL BEING RACIST AND HOW HE TREATS OTHERS WHEN HE GETS CRITISIZED***
+
 <br>
 <img width="635" height="313" alt="image" src="https://github.com/user-attachments/assets/0e446494-1ee4-4244-a5a7-3003bb8355bd" />
 <br>
@@ -32,7 +34,8 @@ This wasn’t an easy decision to make.
 <br>
 <img width="648" height="598" alt="image" src="https://github.com/user-attachments/assets/9028e7e1-57ae-436c-9caf-cd022a4cbe06" />
 <br>
-```1291048710255411204``` 
+
+`1291048710255411204`
 is message id
 
 `1299848196604035093` and `1299848222264655893`
